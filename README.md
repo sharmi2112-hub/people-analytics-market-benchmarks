@@ -56,8 +56,8 @@ The analysis follows four clear steps from raw data collection to reporting:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sharmi2112-hub/uk-workforce-planning-analysis.git
-cd uk-workforce-planning-analysis
+git clone https://github.com/sharmi2112-hub/people-analytics-market-benchmarks.git
+cd people-analytics-market-benchmarks
 ```
 
 ### 2. Set up a Python virtual environment
